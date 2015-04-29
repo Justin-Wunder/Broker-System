@@ -1,0 +1,6 @@
+Private Sub btnClose_Click(sender As Object, e As EventArgs) Handles btnClose.Click 
+2         Me.Hide() 
+3         frmHome.show() 
+4 
+ 
+5     End Sub 
